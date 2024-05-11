@@ -1,6 +1,6 @@
 {
-  "name": "Application",
-  "short_name": "Application",
+  "name": "Applicant",
+  "short_name": "Applicant",
   "icons": [
     {
       "src": "./content/images/jhipster_family_member_0_head-192.png",
